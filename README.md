@@ -14,11 +14,10 @@ Spoken languages: Vietnamese, English
 
 Facts: I am a meticulous person and focus on details.
 
-You can use the [editor on GitHub](https://github.com/s3669698/s3669698.myprofile.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Interest in IT
 
-### Markdown
+IT is a place for active and creative. 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
