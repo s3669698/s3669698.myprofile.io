@@ -1,5 +1,17 @@
 Personal information
 
+Name: Nguyen Huu Duc
+
+Student ID: s3669698
+
+Email adress: dantedevil2350@gmail.com
+
+Nationality: Vietnam
+
+Education to date: Highschool graduation
+
+Spoken languages: Vietnamese, English
+
 You can use the [editor on GitHub](https://github.com/s3669698/s3669698.myprofile.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
