@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+Personal information
 
 You can use the [editor on GitHub](https://github.com/s3669698/s3669698.myprofile.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
