@@ -16,7 +16,7 @@
 		<ul>
 			<li> <a href="https://www.vietnamworks.com/software-developers-python-php-java-1185742-jv?utm_campaign=specialOffersSater&utm_source=specialOffers&utm_medium=specialOffers"> Job </a> </li>
 		</ul>
-		![job](https://user-images.githubusercontent.com/57448917/69921380-c389fd00-14c3-11ea-8f37-8caff299d0b2.png)
+		<img src="https://github.com/s3669698/s3669698.myprofile.io/issues/1#issuecomment-560167382">
 		<ol>
 			<li>  This job suitables for me because I want to work through Python and C++ </li>
 			<li>  This job needs an IT bachelor's degree, 1 year experience in web development </li>
