@@ -45,6 +45,4 @@
 					<li> Teamwork </li>
 				</ul>
 			<li> <p> Outcome: If this project success, the game can produce income for the team, also contribute to the world. This project helps team to prepare in real life work and know basic how to create a game in the future. Player can have a different experience and produce many advantages to children development. This game contains education and logical solutions.
-		</ol>	
-	</body>
-</html>
+		
