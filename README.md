@@ -19,7 +19,7 @@
 		</ul>
 		<p> The test is similar what I think I am, I am an adventure person, I want to explore and experience many things to learn and apply in life. After the test, I know more about my strength and weakness which I want to more about myself and improve my ability. Through the test, I can use my strength to connect the team together as well as contribute ideas and flexible in running a project. I am an easy person so forming a team is quite easy, my team contains flexibility, creative and connection. </p>
 		<hr/>
-		<h2> Project Ideas </h2>
+		<h1> Project Ideas </h1>
 		<ol>
 			<li> <p> Overview: My project is creating a game using Unreal engine platform. This game contains graphic design, high optimize on pc and easy to play by user. It will be a role-playing game with open world that can increase interact between players and NPCs. The game has many features such as AR to produce different environment and gameplay. Moreover, this game provides teamwork, strategize and logical to solve and complete the quests. </p> </li>
 			<li> <p> Motivation: In recent year, game industrial plays a significance role in society. By doing simulator different situations, people can work more efficiency and productivity. Game contains high thinking and flexibility to solve and interact with it, beside the advantages for adults, game provides great development to children. For example, children can think more logically and reflex to different situations. In order to improve human potential, game is one of the solutions which affect to human development in the future. As the result, I choose this project for my passion and contribute to the world achievement. </p> </li>
