@@ -12,14 +12,26 @@
 		<p> RMIT is a perfect place for me to earn and achieve the knowledge. RMIT is known as one of the best universities in Vietnam with high quality and the best infrastructure. Moreover, RMIT is a international university so it is an opportunity to study in an international environment and familiar with many global jobs. The name RMIT is part of what I decide to study in this university, the T is stand for technology. </p>
  		<p> During the time in RMIT, I would like to learn and experience many activities. Learning about soft skill such as teamwork, analysis, communication and presentation. Furthermore, I want to learn many types of computer languages and be serious about how to use it effectively. As the end of my study, I want to create my own game or a application about cloud, big data. </P>
 		<hr/>
-		<h2> Personal Profile </h2>
+		<h2> Ideal Job </h2> 
+		<ul>
+			<li> <a href="https://www.vietnamworks.com/software-developers-python-php-java-1185742-jv?utm_campaign=specialOffersSater&utm_source=specialOffers&utm_medium=specialOffers"> Job </a> </li>
+		</ul>
+		<p> <img src="job.png"/>
+		<ol>
+			<li>  This job suitables for me because I want to work through Python and C++ </li>
+			<li>  This job needs an IT bachelor's degree, 1 year experience in web development </li>
+			<li>  I have known basic Python ,C++ and HTML </li>
+			<li>  Get advance knowleages and achieve bachelor's degree. </li>
+		</ol>
+		<hr/>
+ 		<h2> Personal Profile </h2>
 		<ul>
 			<li> <a href="http://www.educationplanner.org/students/self-assessments/learning-styles-results.shtml?event=results&A=4&V=8&T=8&N=Learning%20style"> Learning style test </a> </li>  
 			<li> <a href="https://www.16personalities.com/profiles/a1f78ea96f9eb"> 16personalities test </a> </li>
 		</ul>
 		<p> The test is similar what I think I am, I am an adventure person, I want to explore and experience many things to learn and apply in life. After the test, I know more about my strength and weakness which I want to more about myself and improve my ability. Through the test, I can use my strength to connect the team together as well as contribute ideas and flexible in running a project. I am an easy person so forming a team is quite easy, my team contains flexibility, creative and connection. </p>
 		<hr/>
-		<h1> Project Ideas </h1>
+		<h2> Project Ideas </h2>
 		<ol>
 			<li> <p> Overview: My project is creating a game using Unreal engine platform. This game contains graphic design, high optimize on pc and easy to play by user. It will be a role-playing game with open world that can increase interact between players and NPCs. The game has many features such as AR to produce different environment and gameplay. Moreover, this game provides teamwork, strategize and logical to solve and complete the quests. </p> </li>
 			<li> <p> Motivation: In recent year, game industrial plays a significance role in society. By doing simulator different situations, people can work more efficiency and productivity. Game contains high thinking and flexibility to solve and interact with it, beside the advantages for adults, game provides great development to children. For example, children can think more logically and reflex to different situations. In order to improve human potential, game is one of the solutions which affect to human development in the future. As the result, I choose this project for my passion and contribute to the world achievement. </p> </li>
